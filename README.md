@@ -8,7 +8,7 @@
 * [Example](https://github.com/aielawady/Siameser/blob/master/Siameser_example_MNIST.ipynb)
 
 ## Horaira
-* [Docs](https://aielawady.github.io/Horaira/)
+* [Docs](https://aielawady.github.io/horaira/)
 
 # Contact info
 
