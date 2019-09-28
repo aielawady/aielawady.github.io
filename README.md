@@ -3,7 +3,7 @@
 # Projects
 
 ## Siameser
-* [Getting Started](https://github.com/aielawady/Siameser)
+* [Getting Started](https://github.com/aielawady/Siameser#getting-started)
 * [Docs](https://aielawady.github.io/Siameser/)
 * [Example](https://github.com/aielawady/Siameser/blob/master/Siameser_example_MNIST.ipynb)
 
