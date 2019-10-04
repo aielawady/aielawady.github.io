@@ -1,5 +1,3 @@
-# Ahmad I. Elawady
-
 # Projects
 
 ## Siameser
